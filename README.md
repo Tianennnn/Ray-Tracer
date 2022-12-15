@@ -11,10 +11,10 @@ The program takes a single argument, which is the name of the file to be parsed.
 * The position** and intensity*** of a point light source
 * The background colour \*\*\*
 * The scene’s ambient intensity\*\*\*
-* The output file name 
+* The output file name    
 
 \*int &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \*\*float &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \*\*\*float between 0 and 1
-
+<br></br>
 The format of the test files is as follows:   
 
 NEAR \<n\>   
@@ -31,8 +31,7 @@ OUTPUT \<name\>
 
 # Examples
 
-
-Here are some examples:
+Here are some examples of input and output:
 ```
 python RayTracer.py testSample.txt
 ```

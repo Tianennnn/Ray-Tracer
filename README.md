@@ -1,5 +1,5 @@
 # Ray-Tracer
-A basic implementation of a ray tracer using python that exploits numpy arrays and functions. The program handles local illumination of spheres, reflections and shadows, and will output result images in PPM format (P3).
+A basic implementation of a ray tracer using Python that exploits numpy arrays and functions. The program handles local illumination of spheres, reflections and shadows, and will output result images in PPM format (P3).
 
 # Input
 
